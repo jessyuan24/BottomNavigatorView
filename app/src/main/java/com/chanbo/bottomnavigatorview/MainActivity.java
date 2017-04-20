@@ -3,9 +3,6 @@ package com.chanbo.bottomnavigatorview;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import com.chanbo.library.BottomNavigatorView;
-import com.chanbo.library.NavigatorItem;
-
 public class MainActivity extends AppCompatActivity {
 
     BottomNavigatorView mBottomNavigatorView;

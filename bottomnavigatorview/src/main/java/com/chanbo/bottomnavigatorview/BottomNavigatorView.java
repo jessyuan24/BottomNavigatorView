@@ -1,4 +1,4 @@
-package com.chanbo.library;
+package com.chanbo.bottomnavigatorview;
 
 import android.content.Context;
 import android.graphics.Canvas;

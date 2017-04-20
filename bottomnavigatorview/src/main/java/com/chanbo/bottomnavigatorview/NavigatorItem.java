@@ -1,4 +1,4 @@
-package com.chanbo.library;
+package com.chanbo.bottomnavigatorview;
 
 /**
  * Created by JessYuan on 30/12/2016.

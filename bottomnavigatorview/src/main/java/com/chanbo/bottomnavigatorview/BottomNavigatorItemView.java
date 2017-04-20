@@ -1,4 +1,4 @@
-package com.chanbo.library;
+package com.chanbo.bottomnavigatorview;
 
 import android.content.Context;
 import android.graphics.drawable.Drawable;
@@ -9,6 +9,8 @@ import android.view.View;
 import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.TextView;
+
+import com.chanbo.library.R;
 
 /**
  * Created by JessYuan on 30/12/2016.
