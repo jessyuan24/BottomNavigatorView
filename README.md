@@ -1,6 +1,6 @@
 # BottomNavigatorView
 a Android view for bottom navigation
 
-'''gradle
+'''java
 compile 'club.univerze.bottomnavigatorview:bottomnavigatorview:1.0.0'
 '''
